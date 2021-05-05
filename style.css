@@ -1,0 +1,18 @@
+.imgg{
+    border: 2px solid green;
+    border-radius:70%;
+    resize: both;
+    
+}
+    .navb{
+        margin-bottom: 20px;
+        /*border: 2px solid red;
+        font-size: 10px;
+        width: 31vw;*/
+        
+        
+        
+    }
+    .navb:{
+        color: green;
+    }
